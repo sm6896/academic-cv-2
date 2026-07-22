@@ -20,10 +20,9 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: true
+          enable: false
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -122,6 +121,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
+        css_class: 'bg-primary-600 text-white shadow-2xl'
         css_style: ''
 ---

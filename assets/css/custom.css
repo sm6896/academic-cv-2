@@ -1,0 +1,9 @@
+section#section-resume-biography-3 a[href*="resume.pdf"] {
+  background-color: var(--color-primary-600) !important;
+  background-image: none !important;
+}
+
+section#section-resume-biography-3 a[href*="resume.pdf"]:hover {
+  background-color: var(--color-primary-700) !important;
+  background-image: none !important;
+}
