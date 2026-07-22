@@ -3,11 +3,13 @@ hugoblox:
     pack: retro
     colors:
       secondary: ""
+    mode: light
   typography:
     pack: geometric
   header:
     style: navbar
     sticky: true
+    theme_toggle: false
   identity:
     name: Sarah Mughal, M.A.
     tagline: Social Psych PhD Student @Rutgers
